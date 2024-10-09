@@ -1,0 +1,6 @@
+Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_Type,Doctor_Consulted,State,Country,Post_Code,Date_of_Birth,Active_Customer
+Hans Mueller,100003,2022-06-10,2023-09-18,ASTRZ,Dr. Schmidt,BY,GER,80331,1978-11-30,Y
+Anna Schmidt,100009,2022-05-28,2023-10-12,ASTRZ,Dr. Weber,HE,GER,60313,1993-06-05,Y
+Thomas Becker,100015,2022-01-30,2023-09-07,ASTRZ,Dr. Müller,NW,GER,40213,1980-12-03,Y
+Klaus Wagner,100021,2022-05-14,2023-10-28,ASTRZ,Dr. Bauer,BW,GER,70173,1992-03-25,Y
+Markus Schulz,100027,2022-04-25,2023-10-14,ASTRZ,Dr. Hoffmann,BE,GER,10115,1981-09-09,Y

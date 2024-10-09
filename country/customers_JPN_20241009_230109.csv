@@ -1,0 +1,7 @@
+Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_Type,Doctor_Consulted,State,Country,Post_Code,Date_of_Birth,Active_Customer
+Yuki Tanaka,100002,2022-02-28,2023-08-14,MDRNA,Dr. Yamamoto,TKY,JPN,100001,1995-07-07,Y
+Taro Yamada,100007,2022-04-03,2023-09-22,MDRNA,Dr. Sato,OSA,JPN,530001,1992-12-18,Y
+Hiroshi Suzuki,100013,2022-03-11,2023-11-02,MDRNA,Dr. Tanaka,KAN,JPN,220001,1986-09-14,Y
+Kenji Nakamura,100019,2022-02-07,2023-09-14,MDRNA,Dr. Ito,FUK,JPN,810001,1991-11-03,Y
+Takashi Sato,100025,2022-03-18,2023-08-27,MDRNA,Dr. Nakamura,HKD,JPN,60001,1990-10-05,Y
+Sofia Tanaka,200035,2020-05-15,2023-06-18,FLU,Dr. Watanabe,TK,JPN,99,1978-02-28,Y
