@@ -1,5 +1,5 @@
 Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_Type,Doctor_Consulted,State,Country,Post_Code,Date_of_Birth,Active_Customer
-Emily Johnson,100001,2021-03-22,2023-10-05,PFIZR,Dr. Smith,CA,USA,90210,1990-08-15,Y
+Emily Johnson,100001,2021-03-22,2024-10-08,PFIZR,Dr. Smith,LN,UK,90210,1990-08-15,Y
 Yuki Tanaka,100002,2022-02-28,2023-08-14,MDRNA,Dr. Yamamoto,TKY,JPN,100001,1995-07-07,Y
 Hans Mueller,100003,2022-06-10,2023-09-18,ASTRZ,Dr. Schmidt,BY,GER,80331,1978-11-30,Y
 Rajesh Kumar,100004,2022-01-15,2023-11-20,COVAX,Dr. Patel,MH,IND,400001,1985-05-10,Y

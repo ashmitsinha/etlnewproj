@@ -1,0 +1,5 @@
+Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_Type,Doctor_Consulted,State,Country,Post_Code,Date_of_Birth,Active_Customer
+Michael Brown,100008,2021-07-19,2023-11-15,PFIZR,Dr. Johnson,NY,USA,10001,1987-03-30,Y
+Jennifer Lee,100014,2021-08-25,2023-10-18,PFIZR,Dr. Anderson,TX,USA,75001,1994-04-27,Y
+Samantha Miller,100020,2021-11-05,2023-08-22,PFIZR,Dr. Davis,FL,USA,33101,1986-07-16,Y
+Jessica Taylor,100026,2021-07-02,2023-11-09,PFIZR,Dr. Wilson,IL,USA,60601,1987-04-18,Y

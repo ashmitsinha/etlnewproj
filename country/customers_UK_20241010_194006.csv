@@ -1,0 +1,7 @@
+Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_Type,Doctor_Consulted,State,Country,Post_Code,Date_of_Birth,Active_Customer
+Emily Johnson,100001,2021-03-22,2024-10-08,PFIZR,Dr. Smith,LN,UK,90210,1990-08-15,Y
+Elizabeth Taylor,100005,2021-09-05,2023-12-01,ASTRZ,Dr. Jones,LDN,UK,12345,1982-04-22,Y
+James Wilson,100011,2022-02-14,2023-09-28,ASTRZ,Dr. Taylor,MAN,UK,56789,1984-01-15,Y
+Oliver Brown,100017,2022-04-19,2023-10-08,ASTRZ,Dr. Williams,ESS,UK,34567,1993-08-11,Y
+George Parker,100023,2022-01-23,2023-09-03,ASTRZ,Dr. Harris,YOR,UK,78901,1983-06-14,Y
+William Hughes,100029,2022-02-11,2023-12-07,ASTRZ,Dr. Evans,WAL,UK,23456,1986-11-28,Y
