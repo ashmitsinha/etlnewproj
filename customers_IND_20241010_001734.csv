@@ -1,6 +1,0 @@
-Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_Type,Doctor_Consulted,State,Country,Post_Code,Date_of_Birth,Active_Customer
-Rajesh Kumar,100004,2022-01-15,2023-11-20,COVAX,Dr. Patel,MH,IND,400001,1985-05-10,Y
-Priya Patel,100010,2021-12-07,2023-08-30,COVAX,Dr. Sharma,GJ,IND,380001,1989-11-22,Y
-Amit Sharma,100016,2021-06-12,2023-11-25,COVAX,Dr. Gupta,DL,IND,110001,1989-02-18,Y
-Ananya Reddy,100022,2021-08-09,2023-11-17,COVAX,Dr. Rao,TN,IND,600001,1988-12-30,Y
-Neha Gupta,100028,2021-12-30,2023-09-25,COVAX,Dr. Chopra,KA,IND,560001,1993-07-12,Y
